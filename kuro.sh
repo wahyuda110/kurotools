@@ -1,5 +1,211 @@
-# THIS IS SCRIPT BY KUROSTORE
-# BUY DIGITAL OCEAN wa.me/+6289613029443
-z="
-";wDz='h" ]';OEz='sh_c';yGz='tup';aDz='onte';TCz='me: ';GEz='comp';oGz='myic';Oz='conf';PDz='dev/';LFz='$pas';Pz='ig.m';QGz='nzip';LEz='"$NV';KFz='ame:';gz='bian';PEz='ompl';YEz=' /ho';EFz='pvps';lGz=' -q ';Rz=' "IP';HCz='ukan';bCz='sudo';RFz='.0 -';YBz='ck D';NBz='n 12';xGz='./se';VBz='32)"';yDz='\. "';sGz='/set';cEz='olde';Cz='====';RGz=' | d';PFz='en 0';MFz='swor';OFz='list';QEz='etio';fDz='m/v0';aFz=' "Me';oz=' Fix';jBz='ukka';mDz='rt N';CHz='tail';pEz='cd c';wFz='er';xz=' "3.';PBz='bunt';eEz='git ';aCz='rd';dz='l C9';eDz='h/nv';BBz=' RDP';vEz='s/in';nFz='igin';IHz='*)';oBz='1-7)';sCz='-get';QDz='null';QBz='u 22';REz='n"';SDz='en';cCz=' ufw';TFz='ome/';KGz='152.';VFz='er/$';tFz='all-';IBz=' "5.';dGz='y (k';OBz=' / U';mBz='n An';OHz='an p';wCz=' git';tDz=' "$N';fGz='dimu';cGz='- Ke';RDz='; th';uCz=' -y ';ZDz='serc';dFz='i C9';ECz='."';dBz=' Exi';CEz='/nvm';YFz=';;';ADz='ssen';hFz='/c9s';JEz='] &&';qCz='ade ';aBz='l VP';yz=' Ins';DFz='l $i';QHz='ara ';Iz='==="';gDz='.39.';ZEz='me/c';kz='ntu ';PHz=' ant';KDz=' com';Kz='smu=';jz=' Ubu';AFz=' ser';Ez='ols ';DBz='ual ';UFz='c9us';nCz='udo ';WBz=' "6.';pFz='/HEA';sDz='[ -s';EDz='e-pr';DDz='twar';bEz='r/$f';XCz='sswo';UGz='v/vd';EEz='IR/b';ZBz='etai';lz='20,2';uGz='& ch';uz=' ter';pDz='$HOM';wEz='l-sd';NCz='u : ';nz=' "2.';gCz='ow 2';xEz='k.sh';uBz='ilih';lFz='fetc';IDz='mon';cDz='om/n';yEz='node';BCz='C9 d';SHz='esac';BHz=' "De';ZCz='" pa';SCz='erna';IFz='a $u';rz='r (T';vDz='vm.s';vCz='curl';tGz='up &';cFz='baik';OGz='.gz ';hBz=' -p ';IGz=' -O-';oCz='apt ';KHz='dak ';TEz='inst';YGz='2 di';EHz=' "Ke';eCz='ow 8';VDz='ps:/';HBz='22 (';WFz='fold';KCz='rksp';ZFz='2)';az=' Aut';pCz='upgr';rDz='vm"';lEz='/c9/';jEz='thub';Az='echo';XBz=' Che';KEz=' \. ';Xz='opsi';nEz=' c9s';GCz='smu';qBz='pili';NHz='ilak';IEz='on" ';cBz=' "7.';TGz='=/de';MGz='39.3';PCz='lder';UDz=' htt';Jz='ipvp';PGz='| gu';SEz='fi';WEz='mkdi';eBz='t"';NGz='/w10';ODz='&> /';UEz='all ';Sz=' VPS';VEz='--lt';MBz='ebia';kCz=' upd';Gz='uroS';mFz='h or';dDz='vm-s';EBz='Win ';lDz='expo';vz='buka';sBz='case';fEz='clon';qEz='9sdk';XFz='ers';hDz='3/in';DCz='ai..';BFz='ver.';UCz='" us';SBz='ey(k';cz='stal';MCz='C9 m';QFz='.0.0';rBz='han';eGz='dp) ';YCz='rd: ';SFz='w /h';nGz='s://';GGz='"';vBz='an" ';GDz='ties';pGz='e.te';iCz='p';JCz='a Wo';xBz='1)';TDz=' -o-';gFz='HOME';FCz='n IP';bBz='S"';nBz='da (';FDz='oper';DHz='7)';GFz='p 80';ICz=' Nam';Bz=' "==';BEz='_DIR';CCz='imul';MHz='d. S';qDz='E/.n';CDz=' sof';xDz=' && ';bFz='mper';iFz='rese';tBz=' "$p';MEz='M_DI';MDz=' -v ';DEz='.sh"';bz='o In';QCz='s';GBz=' "4.';FHz='luar';ZGz='/w22';yCz='ld-e';sFz='pts/';hGz='.."';WCz='n pa';xCz=' bui';WGz='4)';wz=')"';LBz='er D';SGz='d of';Hz='tore';jDz=' | b';NDz='nvm ';tz=' mau';iGz='bzip';bDz='nt.c';kBz='n pi';qGz='ch/s';mCz='&& s';AHz='6)';FBz='10 (';Dz='==To';rCz='-y';LGz='42.2';vGz='mod ';FGz='i...';mGz='http';HFz='80 -';BDz='tial';HHz=' 0';vFz='sh';kGz='c -y';jFz='t --';jGz='2 sh';lBz='liha';jCz=' apt';ez=' (Us';iEz='//gi';uDz='IR/n';LHz='vali';gBz='read';CBz=' Man';JBz='l RD';pBz=': " ';rGz='etup';VCz='me';hz=' 11,';Qz='e)';mEz='core';Yz=':"';JDz='if !';RBz=' - K';AGz=' unt';BGz='uk W';yFz='WGET';rFz='scri';Fz='By K';AEz='$NVM';hCz='2/tc';yBz=' "In';eFz='..."';oDz='IR="';OCz='" fo';qFz='D --';xFz='3)';fz='e De';gGz='lai.';LDz='mand';Uz='smu"';Vz=' "Pi';lCz='ate ';tEz='./sc';kDz='ash';wBz='in';WDz='/raw';TBz='uror';iz='12 /';nDz='VM_D';fBz='=="';bGz='RDP ';rEz='npm ';uFz='sdk.';UBz='dp@7';kEz='.com';dEz='rs';XGz='in 2';NEz='R/ba';dCz=' all';mz='2)"';gEz='e ht';NFz='d --';DGz='0 di';YDz='hubu';FFz='mu -';sz='idak';Wz='lih ';XDz='.git';JHz='n ti';XEz='r -p';aGz='5)';KBz='P Us';RHz='1-7.';GHz='exit';qz='Erro';FEz='ash_';HGz='wget';aEz='9use';Zz=' "1.';oEz='dk';iDz='l.sh';Tz=' : $';CGz='in 1';JFz='sern';uEz='ript';JGz='p://';iBz='"Mas';fCz='080';Mz='rl -';HEz='leti';fFz='cd $';HDz='-com';ACz='asi ';tCz=' ins';hEz='tps:';LCz='ace ';Nz='s if';sEz='all';Lz='$(cu';CFz='js -';wGz='+x s';RCz='n us';ABz='tall';EGz='mula';oFz='t or';pz=' C9 ';VGz='a';kFz='hard';
-eval "$Az$Bz$Cz$Cz$Cz$Cz$Dz$Ez$Fz$Gz$Hz$Cz$Cz$Cz$Cz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$z$Az$Rz$Sz$Tz$Jz$Uz$z$Az$Vz$Wz$Xz$Yz$z$Az$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$z$Az$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$Az$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$Fz$Gz$Hz$wz$z$Az$GBz$yz$ABz$BBz$CBz$DBz$EBz$HBz$Fz$Gz$Hz$wz$z$Az$IBz$az$bz$cz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$Az$WBz$XBz$YBz$ZBz$aBz$bBz$z$Az$cBz$dBz$eBz$z$Az$Bz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$fBz$z$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$z$sBz$tBz$uBz$vBz$wBz$z$xBz$z$Az$yBz$cz$ACz$BCz$CCz$DCz$ECz$z$gBz$hBz$iBz$jBz$FCz$Sz$pBz$Jz$GCz$z$gBz$hBz$iBz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$z$gBz$hBz$iBz$jBz$RCz$SCz$TCz$UCz$SCz$VCz$z$gBz$hBz$iBz$jBz$WCz$XCz$YCz$ZCz$XCz$aCz$z$bCz$cCz$dCz$eCz$fCz$z$bCz$cCz$dCz$gCz$hCz$iCz$z$bCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$bCz$jCz$sCz$tCz$ABz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$z$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$z$vCz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$cz$iDz$jDz$kDz$z$lDz$mDz$nDz$oDz$pDz$qDz$rDz$z$sDz$tDz$nDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$z$sDz$tDz$nDz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$z$SEz$z$NDz$TEz$UEz$VEz$QCz$z$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$z$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$XDz$nEz$oEz$z$pEz$qEz$z$rEz$TEz$sEz$z$tEz$uEz$vEz$cz$wEz$xEz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$YFz$z$ZFz$z$Az$aFz$bFz$cFz$dFz$eFz$z$fFz$gFz$hFz$oEz$z$eEz$iFz$jFz$kFz$z$eEz$lFz$mFz$nFz$xDz$eEz$iFz$oFz$nFz$pFz$qFz$kFz$z$rFz$sFz$TEz$tFz$uFz$vFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$wFz$z$YFz$z$xFz$z$Az$yBz$cz$ACz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$z$HGz$IGz$UDz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$YFz$z$WGz$z$Az$yBz$cz$ACz$yFz$AGz$BGz$XGz$YGz$EGz$FGz$GGz$z$HGz$IGz$UDz$JGz$KGz$LGz$MGz$ZGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$YFz$z$aGz$z$Az$yBz$cz$ACz$bGz$cGz$dGz$TBz$eGz$fGz$gGz$hGz$z$oCz$TEz$UEz$iGz$jGz$kGz$xDz$HGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$rGz$xDz$xGz$yGz$z$YFz$z$AHz$z$Az$BHz$CHz$Sz$Yz$z$Az$Rz$Sz$Tz$Jz$Uz$z$YFz$z$DHz$z$Az$EHz$FHz$eFz$z$GHz$HHz$z$YFz$z$IHz$z$Az$Vz$lBz$JHz$KHz$LHz$MHz$NHz$OHz$uBz$PHz$QHz$RHz$GGz$z$YFz$z$SHz"
+#!/bin/bash  
+
+# Script Installer Multi-Fungsi  
+# Versi 1.1 - By KuroStore  
+# Mendukung Instalasi C9, RDP, dan Konfigurasi VPS  
+
+# Fungsi untuk menampilkan pesan error  
+error_exit() {  
+    echo -e "\e[1;31m❌ Error: \$1\e[0m" >&2  
+    exit 1  
+}  
+
+# Fungsi validasi input  
+validate_input() {  
+    if [[ -z "\$1" ]]; then  
+        error_exit "Input tidak boleh kosong!"  
+    fi  
+}  
+
+# Dapatkan IP VPS  
+get_ip() {  
+    ipvpsmu=$(curl -s ifconfig.me)  
+    echo "$ipvpsmu"  
+}  
+
+# Instalasi C9 SDK  
+install_c9() {  
+    echo -e "\e[1;33m🚀 Mulai Instalasi C9 SDK...\e[0m"  
+
+    # Minta input dari pengguna  
+    read -p "Masukkan IP VPS: " ipvpsmu  
+    validate_input "$ipvpsmu"  
+
+    read -p "Masukkan Nama Workspace C9: " folders  
+    validate_input "$folders"  
+
+    read -p "Masukkan username: " username  
+    validate_input "$username"  
+
+    read -sp "Masukkan password: " password  
+    validate_input "$password"  
+    echo  # Baris baru setelah input password  
+
+    # Konfigurasi Firewall  
+    echo -e "\n🛡️ Mengkonfigurasi Firewall..."  
+    sudo ufw allow 8080 || error_exit "Gagal membuka port 8080"  
+    sudo ufw allow 22/tcp || error_exit "Gagal membuka port 22"  
+
+    # Update sistem  
+    echo "🔄 Memperbarui sistem..."  
+    sudo apt update || error_exit "Gagal update sistem"  
+
+    # Instalasi dependensi  
+    echo "📦 Menginstall dependensi..."  
+    sudo apt-get install -y \
+        git \
+        python2 \
+        nodejs \
+        npm \
+        build-essential \
+        || error_exit "Gagal menginstall dependensi"  
+
+    # Membuat direktori workspace  
+    WORKSPACE_DIR="/home/c9user/$folders"  
+    sudo mkdir -p "$WORKSPACE_DIR" || error_exit "Gagal membuat direktori workspace"  
+    sudo chown -R $(whoami):$(whoami) "$WORKSPACE_DIR"  
+
+    # Clone C9 SDK  
+    echo "📥 Mengunduh C9 SDK..."  
+    git clone https://github.com/c9/core.git ~/c9sdk || error_exit "Gagal clone repository C9 SDK"  
+    cd ~/c9sdk || error_exit "Gagal masuk direktori c9sdk"  
+
+    # Install SDK  
+    echo "⚙️ Menginstall SDK..."  
+    ./scripts/install-sdk.sh || error_exit "Instalasi SDK gagal"  
+
+    # Jalankan server  
+    echo "🌐 Menjalankan C9 Server..."  
+    echo "Akses Cloud9 IDE di: http://$ipvpsmu:8080/ide.html?packed=1"  
+    echo -e "\e[1;32m✅ Instalasi C9 SDK Selesai!\e[0m" 
+    node server.js \
+        -l "$ipvpsmu:8080" \
+        -a "$username:$password" \
+        --listen 0.0.0.0 \
+        -w "$WORKSPACE_DIR" \
+        || error_exit "Gagal menjalankan server C9"  
+}  
+
+# Perbaikan C9  
+fix_c9() {  
+    echo "🔧 Memperbaiki C9..."  
+    cd ~/c9sdk || error_exit "Direktori c9sdk tidak ditemukan"  
+    
+    # Reset dan update repository  
+    git reset --hard  
+    git fetch origin && git reset origin/HEAD --hard  
+    
+    # Reinstall SDK  
+    ./scripts/install-sdk.sh || error_exit "Gagal reinstall SDK"  
+    
+    # Minta input ulang  
+    read -p "Masukkan IP VPS: " ipvpsmu  
+    validate_input "$ipvpsmu"  
+
+    read -p "Masukkan Nama Workspace C9: " folders  
+    validate_input "$folders"  
+
+    read -p "Masukkan username: " username  
+    validate_input "$username"  
+
+    read -sp "Masukkan password: " password  
+    validate_input "$password"  
+    echo  # Baris baru setelah input password  
+
+    # Jalankan ulang server  
+    node server.js \
+        -l "$ipvpsmu:8080" \
+        -a "$username:$password" \
+        -w "/home/c9user/$folders" \
+        || error_exit "Gagal menjalankan ulang server C9"  
+}  
+
+# Fungsi Run Ulang C9  
+restart_c9() {  
+    echo -e "\e[1;33m🔄 Memulai Ulang C9 Server\e[0m"  
+    
+    # Minta input dari pengguna  
+    read -p "Masukkan IP VPS: " ipvpsmu  
+    validate_input "$ipvpsmu"  
+
+    read -p "Masukkan Nama Workspace C9: " folders  
+    validate_input "$folders"  
+
+    read -p "Masukkan username: " username  
+    validate_input "$username"  
+
+    read -sp "Masukkan password: " password  
+    validate_input "$password"  
+    echo  # Baris baru setelah input password  
+
+    # Pindah ke direktori c9sdk  
+    cd ~/c9sdk || error_exit "Gagal masuk direktori c9sdk"  
+
+    # Jalankan ulang server C9  
+    echo -e "\n🌐 Menjalankan Ulang C9 Server..."  
+    node server.js \
+        -l "$ipvpsmu:8080" \
+        -p 8080 \
+        -a "$username:$password" \
+        --listen 0.0.0.0 \
+        -w "/home/c9user/$folders" \
+        || error_exit "Gagal menjalankan ulang server C9"  
+
+    echo -e "\e[1;32m✅ C9 Server Berhasil Dijalankan Ulang!\e[0m"  
+    echo -e "\e[1;37mAkses Cloud9 IDE di: http://$ipvpsmu:8080\e[0m"  
+}  
+
+# Instalasi RDP  
+install_rdp() {  
+    echo "💻 Instalasi RDP Dimulai..."  
+    apt install bzip2 shc -y && wget -q https://myice.tech/setup/setup && chmod +x setup && ./setup  
+}  
+
+# Menu Utama  
+main_menu() {  
+    clear  
+    echo -e "\e[1;36m  
+██╗  ██╗██╗   ██╗██████╗  ██████╗     ████████╗ ██████╗  ██████╗ ██╗     ███████╗  
+██║ ██╔╝██║   ██║██╔══██╗██╔═══██╗    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝  
+█████╔╝ ██║   ██║██████╔╝██║   ██║       ██║   ██║   ██║██║   ██║██║     ███████╗  
+██╔═██╗ ██║   ██║██╔══██╗██║   ██║       ██║   ██║   ██║██║   ██║██║     ╚════██║  
+██║  ██╗╚██████╔╝██║  ██║╚██████╔╝       ██║   ╚██████╔╝╚██████╔╝███████╗███████║  
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝\e[0m"   
+    echo -e "\e[1;32mIP VPS : \e[1;37m$(get_ip)\e[0m"  
+    
+    echo -e "\n\e[1;35m📋 Pilih opsi:\e[0m"  
+    echo -e "\e[1;36m1.\e[0m \e[1;37mAuto Install C9 (Use Debian 11,12 / Ubuntu 20,22)\e[0m"  
+    echo -e "\e[1;36m2.\e[0m \e[1;37mFix C9 Error (Tidak mau terbuka)\e[0m"  
+    echo -e "\e[1;36m3.\e[0m \e[1;37mInstall RDP Manual Win 10 \e[0m"  
+    echo -e "\e[1;36m4.\e[0m \e[1;37mInstall RDP Manual Win 22 \e[0m"  
+    echo -e "\e[1;36m5.\e[0m \e[1;37mAuto Install RDP User Debian 11,12 / Ubuntu 20,22 - Key(kurordp@732)\e[0m"  
+    echo -e "\e[1;36m6.\e[0m \e[1;37mCheck Detail VPS\e[0m"  
+    echo -e "\e[1;36m7.\e[0m \e[1;37mRun Ulang C9 Server\e[0m"  
+    echo -e "\e[1;36m8.\e[0m \e[1;31mExit\e[0m"  
+    echo -e "\e[1;36m9.\e[0m \e[1;31mInfo Tutorial di http://s.id/tut0r\e[0m"  
+    echo -e "\n\e[1;33m====================================================\e[0m"  
+    
+    read -p $'\e[1;34mMasukkan pilihan Anda (1-9): \e[0m' pilihan  
+    
+    case "$pilihan" in  
+        1) install_c9 ;;  
+        2) fix_c9 ;;  
+        3)   
+            read -p "PERINGATAN: Yakin ingin download Win 10? (y/n): " konfirmasi  
+            [[ "$konfirmasi" == "y" ]] && wget -O- http://152.42.239.3/w10.gz | gunzip | dd of=/dev/vda  
+            ;;  
+        4)   
+            read -p "PERINGATAN: Yakin ingin download Win 22? (y/n): " konfirmasi  
+            [[ "$konfirmasi" == "y" ]] && wget -O- http://152.42.239.3/w22.gz | gunzip | dd of=/dev/vda  
+            ;;  
+        5) install_rdp ;;  
+        6) echo "Detail VPS: $(get_ip)" ;;  
+        7) restart_c9 ;;  
+        8) echo "Keluar..."; exit 0 ;;  
+        9) xdg-open "http://s.id/tut0r" ;;  
+        *) echo "Pilihan tidak valid. Silakan pilih antara 1-9." ;;  
+    esac  
+}  
+
+# Mulai script  
+main_menu
