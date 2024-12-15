@@ -76,7 +76,7 @@ install_c9() {
 
     # Jalankan server  
     echo "🌐 Menjalankan C9 Server..."  
-    echo "Akses Cloud9 IDE di: http://$ipvpsmu:8080/ide.html?packed=1"  
+    echo "Akses Cloud9 IDE di: http://$ipvpsmu:8181/ide.html?packed=1"  
     echo -e "\e[1;32m✅ Instalasi C9 SDK Selesai!\e[0m" 
     node server.js \
         -l "$ipvpsmu:8080" \
