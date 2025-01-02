@@ -174,11 +174,11 @@ main_menu() {
     echo -e "\e[1;32mIP VPS : \e[1;37m$(get_ip)\e[0m"  
     
     echo -e "\n\e[1;35m📋 Pilih opsi:\e[0m"  
-    echo -e "\e[1;36m1.\e[0m \e[1;37mAuto Install C9 (Use Debian 11,12 / Ubuntu 20,22)\e[0m"  
+    echo -e "\e[1;36m1.\e[0m \e[1;37mAuto Install C9 (Recommend Use Ubuntu 20)\e[0m"  
     echo -e "\e[1;36m2.\e[0m \e[1;37mFix C9 Error (Tidak mau terbuka)\e[0m"  
     echo -e "\e[1;36m3.\e[0m \e[1;37mInstall RDP Manual Win 10 \e[0m"  
     echo -e "\e[1;36m4.\e[0m \e[1;37mInstall RDP Manual Win 22 \e[0m"  
-    echo -e "\e[1;36m5.\e[0m \e[1;37mAuto Install RDP User Debian 11,12 / Ubuntu 20,22 - Key(kurordp@732)\e[0m"  
+    echo -e "\e[1;36m5.\e[0m \e[1;37mAuto Install RDP User Debian 11,12 / Ubuntu 20,22 - Key(Contact Admin)\e[0m"  
     echo -e "\e[1;36m6.\e[0m \e[1;37mCheck Detail VPS\e[0m"  
     echo -e "\e[1;36m7.\e[0m \e[1;37mRun Ulang C9 Server\e[0m"  
     echo -e "\e[1;36m8.\e[0m \e[1;31mExit\e[0m"  
